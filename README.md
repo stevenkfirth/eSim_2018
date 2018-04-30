@@ -15,4 +15,4 @@ submitted to the [eSim 2018](esim) conference.
 - '.gitignore': used by Git to ignore some files. Here this is used to avoid copying all the data and simulation files to this repository.
 - 'README.md' (this file): the readme file written in Markdown.
 
-[esim]: esim2018.etsmtl.ca
+[esim]: http://esim2018.etsmtl.ca/
