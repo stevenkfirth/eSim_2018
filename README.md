@@ -12,6 +12,7 @@ submitted to the [eSim_2018][esim] conference.
 ## How to read this repository
 
 - 'analysis': this folder contains the code used for the analysis in the paper. Look in this folder to see how the analysis is done.
+- 'presentation': this folder contains the PowerPoint presentation as given at the eSim 2018 conference.
 - '.gitignore': used by Git to ignore some files. Here this is used to avoid copying all the data and simulation files to this repository.
 - 'LICENSE': the license used for this work.
 - 'README.md' (this file): the readme file written in Markdown.
